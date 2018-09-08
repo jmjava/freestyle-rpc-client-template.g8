@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="freestyle-rpc-template-g8_1695,freestyle-template,freestyle-rpc-template,freestyle-rpc-server-template,freestyle-rpc-client-template" />
+  </component>
+</project>
