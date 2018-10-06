@@ -4,7 +4,7 @@
 		module="freestyle-rpc-client-template-g8-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20181006163730"
+		publication="20181006170543"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
