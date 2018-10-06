@@ -6,7 +6,7 @@ This is a Giter8 template for Freestyle RPC Server projects.
 1. Create a new project from Freestyle g8 template:
 
 ```scala
-sbt new jmjava/freestyle-rpc-server-template.g8
+sbt new jmjava/freestyle-rpc-client-template.g8
 ```
 
 ## Debugging this template
